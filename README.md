@@ -1,9 +1,8 @@
-# Library-Management-System
+# Library-Management-System (In 'C' Program)
  
 
 
 ________________________________________
-Library Management System Synopsis
 (C Programming)
 This document outlines the design and functionalities of a Library Management System implemented in C programming. The system facilitates the efficient management of books, students, transactions (buying, renting, and reading), reporting, and integrating special offer systems such as redeem codes. Below is a detailed breakdown of the key features and functionalities:
 ________________________________________
