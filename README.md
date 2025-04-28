@@ -34,9 +34,9 @@ ________________________________________
 ________________________________________
 5. Remarking Students
 • Categorizing Students: Students are categorized based on their activity:
-•	“B” for buyers (students who purchase books)
-•	“R” for readers (students reading in the library)
-•	“HR” for home readers (students who rent books for home reading)
+•	“1” for buyers (students who purchase books)
+•	“2” for readers (students reading in the library)
+•	“3” for home renters (students who rent books for  reading)
 ________________________________________
 6. Daily Sales and Reading Report
 • Manager/Owner Report: The system generates a daily report detailing total income, sales, books rented or read inside the library, and overall transactions.
@@ -51,7 +51,7 @@ ________________________________________
 • Minimum Purchase Amount: If applicable, the system checks if the student’s total cart value meets the minimum purchase requirement for the redeem code. Students are informed if they are eligible or not.
 • Option to Buy More: If a student's cart value does not meet the redeem code requirement, they are offered the option to add more books to their cart to become eligible for the discount.
 ________________________________________
-9. Home Reader Checkout
+9. Renter Checkout
 • Collecting Home Reader Details: When a student chooses to rent a book for home reading, the system collects the number of days the student wishes to rent the book, as well as their mobile number, address, and other details for contact and shipping.
 ________________________________________
 10. Daily Sales and Rent Report
