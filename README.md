@@ -63,6 +63,4 @@ ________________________________________
 Conclusion
 The Library Management System, implemented in C programming, is designed to streamline library operations, improve student and library staff interactions, and automate daily tasks. This system efficiently handles book management, student registration, transactions (buying, renting, and reading), daily reports, special offers, and the handling of unavailable books. By integrating features like redeem codes for discounts, real-time inventory management, and categorization of student activities, the system ensures smooth and organized management of library resources while providing a user-friendly interface for both students and library managers.
 ________________________________________
-This revised synopsis reflects the new functionalities added to your system, including the redeem code system, manager dashboard, student categorization, and more. The system is now more versatile, offering students the ability to access special offers and giving managers the tools to track transactions and sales efficiently.
-Checkout Project 
 
