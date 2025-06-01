@@ -39,7 +39,7 @@ ________________________________________
 •	“3” for home renters (students who rent books for  reading)
 ________________________________________
 6. Daily Sales and Reading Report
-• Manager/Owner Report: The system generates a daily report detailing total income, sales, books rented or read inside the library, and overall transactions.
+• Manager/Owner Report: The system generates a daily report detailing the total income, sales, the books rented or read inside the library, and overall transactions.
 ________________________________________
 7. Handling Unavailable Books
 • Unavailability Notification: If a book is unavailable, the system notifies the manager with the book’s name and the quantity needed.
@@ -52,13 +52,13 @@ ________________________________________
 • Option to Buy More: If a student's cart value does not meet the redeem code requirement, they are offered the option to add more books to their cart to become eligible for the discount.
 ________________________________________
 9. Renter Checkout
-• Collecting Home Reader Details: When a student chooses to rent a book for home reading, the system collects the number of days the student wishes to rent the book, as well as their mobile number, address, and other details for contact and shipping.
+• Collecting Home Reader Details: When a student chooses to rent a book for home reading, the system collects the number of days the student wishes to rent the book, including their mobile number, address, and other details for contact and shipping.
 ________________________________________
 10. Daily Sales and Rent Report
-• Sales Summary: At the end of the day, the system generates a detailed report on total sales, rented books, and books read inside the library. This includes quantities and total income earned from these transactions.
+• Sales Summary: At the end of the day, the system generates a detailed report on total sales, rented books, and books read inside the library. This report includes quantities and the total income earned from these transactions.
 ________________________________________
-11. Managing Book Quantities
-• Updating Book Availability: After each transaction (buying, renting, or reading), the system updates the quantity of books and reflects the current stock. If books run out, they are marked as "Out of stock" or displayed as unavailable until restocked.
+12. Managing Book Quantities
+• Updating Book Availability: After each transaction (buying, renting, or reading), the system updates the quantity of books and reflects the current stock. If books run out, they are marked as 'Out of stock' or displayed as unavailable until restocked.
 ________________________________________
 Conclusion
 The Library Management System, implemented in C programming, is designed to streamline library operations, improve student and library staff interactions, and automate daily tasks. This system efficiently handles book management, student registration, transactions (buying, renting, and reading), daily reports, special offers, and the handling of unavailable books. By integrating features like redeem codes for discounts, real-time inventory management, and categorization of student activities, the system ensures smooth and organized management of library resources while providing a user-friendly interface for both students and library managers.
