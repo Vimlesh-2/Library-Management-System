@@ -4,7 +4,7 @@
 
 ________________________________________
 (C Programming)
-This document outlines the design and functionalities of a Library Management System implemented in C programming. The system facilitates the efficient management of books, students, transactions (buying, renting, and reading), reporting, and integrating special offer systems such as redeem codes. Below is a detailed breakdown of the key features and functionalities:
+This document outlines the design and functionalities of a Library Management System implemented in C programming. The system facilitates the efficient management of books, students, transactions (buying, renting, and reading), reporting, and integrating special offer systems such as redeem codes. Below is a detailed breakdown of the key features and functionalities.
 ________________________________________
 1. Getting the List of Books in the Library
 • Adding Books: The system allows the library owner or manager to either create a custom list of books or use a predefined list.
@@ -16,9 +16,8 @@ ________________________________________
 • Renting Price for Books: Each book has a set price for one-day rentals, which the manager can define.
 ________________________________________
 2. Student Registration and Allocation
-• Getting Student Details: The system prompts for student registration by gathering their name, location, seat number, and other details.
-• Assigning Unique ID: A unique student ID is generated and assigned to each student for identification.
-________________________________________
+• Getting Student Details: The system prompts for student registration by gathering their name, location, seat number, and other relevant details.
+• Assigning Unique ID: A unique student ID is generated and assigned to each student for identification purposes.________________________________________
 3. Displaying Books with Pricing
 • Menu of Books: A list of all available books with their respective prices, hourly reading rates, and availability status is displayed for students.
 • Student Choice: Students can choose between buying a book (“B”), reading it inside the library (“R”), or renting it for home reading (“HR”).
@@ -52,7 +51,7 @@ ________________________________________
 • Option to Buy More: If a student's cart value does not meet the redeem code requirement, they are offered the option to add more books to their cart to become eligible for the discount.
 ________________________________________
 9. Renter Checkout
-• Collecting Home Reader Details: When a student chooses to rent a book for home reading, the system collects the number of days the student wishes to rent the book, including their mobile number, address, and other details for contact and shipping.
+• Collecting Home Reader Details: When a student chooses to rent a book for home reading, the system collects the number of days the student wishes to rent the book, along with their mobile number, address, and other contact and shipping details..
 ________________________________________
 10. Daily Sales and Rent Report
 • Sales Summary: At the end of the day, the system generates a detailed report on total sales, rented books, and books read inside the library. This report includes quantities and the total income earned from these transactions.
